@@ -21,6 +21,6 @@
     "prestart": "webpack",
     "start": "node app-server.js"
   },
-  "author": "Alex Banks",
-  "license": "MIT"
+  "author": "Vidiu Chiu",
+  "license": ""
 }
