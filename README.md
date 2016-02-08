@@ -1,9 +1,12 @@
 
 # MVP (Solo) Project
 
+Built a Town Hall chat with different interfaces for Speakers and Audience Members. This was a 36 hackathon challenge.
+
+
 ### Overview:
 
-You have 36 hours to produce something compelling using the skills you've honed over the past five weeks. 
+You have 36 hours to produce something compelling using the skills you've honed over the past five weeks.
 
 __Q:__ What are your inputs?
 <br>
@@ -27,8 +30,7 @@ To build on your learning of core engineering concepts, we will begin thinking a
 -->
 
 
-## Basic Requirements
-- [ ] Fork the repo
+## Requirements
 - Complete the PRESS-RELEASE.md template (<30min)
   - [ ] Pick an idea (implement a technology, build a product, make art, etc).
   - [ ] Write it down on paper
@@ -38,10 +40,3 @@ To build on your learning of core engineering concepts, we will begin thinking a
   - [ ] Fill in the README.md template document
 - [ ] Use iterative development (go straight to something that demos your idea)
 - [ ] Prepare for pitch @ demo on Tuesday
-
-
-## Extra Credit
-
-- [ ] Storage - if your app persists data, use a tool like Parse or Firebase. 
-- [ ] If applicable, use an MVC Framework - Make your app production grade with a full-on MVC. 
-
